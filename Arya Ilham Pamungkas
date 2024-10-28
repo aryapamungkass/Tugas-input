@@ -1,0 +1,25 @@
+<html>
+
+    <head>
+
+        <title>Formulir Online</title>
+
+    </head>
+
+    <body bgcolor="aqua"style="font-family: Arial, Helvetica, sans-serif;">
+
+<div></div>        <form name="formulir"></form>
+
+        <table align="center" width="50%" cellpadding="10" cellspacing="0">
+
+            <thead>
+
+                <tr bgcolor="#B0C4DE">
+
+                    <th colspan="2">Formulir Online</th>
+
+                </tr>
+
+            </thead>
+
+            <tbody>
